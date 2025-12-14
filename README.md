@@ -19,8 +19,8 @@ Follow these steps to set up the project on your local machine:
 Clone the repository or extract the downloaded ZIP file to your web server directory (e.g., `htdocs`).
 
 ```bash
-git clone https://github.com/yourusername/TodoListApp.git
-cd TodoListApp
+git clone https://github.com/MakotoTU/ToDoListApp.git
+cd ToDoListApp
 ```
 
 ### 2. Install Backend Dependencies
