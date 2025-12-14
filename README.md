@@ -63,7 +63,7 @@ This will create the tables and add the default test user.
 php artisan migrate --seed
 ```
 
-### 6. Install Frontend Dependencies
+### 6. Install Frontend Dependencies (can be skip/Optional)
 Install and build the JavaScript/CSS assets.
 
 ```bash
