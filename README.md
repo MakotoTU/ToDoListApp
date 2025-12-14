@@ -44,7 +44,7 @@ Generate the application encryption key:
 php artisan key:generate
 ```
 
-### 4. Setup Database
+### 4. Setup Database (just skip this step)
 1. Open your database manager (e.g., phpMyAdmin).
 2. Create a new empty database (e.g., named `todolist_app`).
 3. Open the `.env` file in a text editor and update the database settings:
