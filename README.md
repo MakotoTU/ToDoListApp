@@ -1,5 +1,3 @@
-# ToDoListApp
-
 # TodoListApp
 
 A simple Todo List application built with Laravel.
